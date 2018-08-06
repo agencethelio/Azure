@@ -1,0 +1,39 @@
+﻿{
+  "reportRequests": [
+    {
+      "viewId": "149197134",
+      "dateRanges": [
+        {
+          "startDate": "30daysAgo",
+          "endDate": "yesterday"
+        }
+      ],
+      "metrics": [
+        {
+          "expression": "ga:users",
+          "alias": ""
+        },
+        {
+          "expression": "ga:newUsers",
+          "alias": ""
+        },
+        {
+          "expression": "ga:percentNewSessions",
+          "alias": ""
+        },
+        {
+          "expression": "ga:sessionsPerUser",
+          "alias": ""
+        }
+      ],
+      "dimensions": [
+        {
+          "name": "ga:date"
+        },
+        {
+          "name": "ga:hour"
+        }
+      ]
+    }
+  ]
+}

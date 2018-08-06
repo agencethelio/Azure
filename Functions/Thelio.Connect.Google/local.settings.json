@@ -1,0 +1,8 @@
+{
+    "IsEncrypted": false,
+  "Values": {
+    "IDs": "ga:xxxxxx",
+    "keyVaultAddress": "https://<Name>.vault.azure.net/",
+    "project_id": ""
+  }
+}
